@@ -7,3 +7,7 @@ comments: false
 ---
     
 <center><a href="http://cesargarciasanchez.github.io"><b>Web in progress</b></a></center>
+
+<h1>CV</h1>
+<br>
+<p>>Curriculum vitae</p>
